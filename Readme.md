@@ -1,9 +1,9 @@
 ![meta logo](./misc/gameper-logo.png)
-# Gameper Unreal Ethereum Plugin
+# Gameper Unreal Engine 4 Ethereum Plugin
 [![Generic badge](https://img.shields.io/badge/build-passing-green.svg)](https://shields.io/)    [![Generic badge](https://img.shields.io/badge/licence-MIT-blue.svg)](https://shields.io/)
 
 
-This is a lightweight unreal Ethereum plugin. This plugin provides basic ethereum wallet features. You can use Major Ethereum functions with Blueprint node. Or you can modify the plugin as you wish. 4.19, 4.20, 4.21 compatible.
+This is a lightweight Unreal Engine 4 Ethereum plugin. This plugin provides basic ethereum wallet features. You can use Major Ethereum functions with Blueprint node. Or you can modify the plugin as you wish. 4.19, 4.20, 4.21 compatible.
 
 This plugin provides:
 1. Make Signed Transaction
